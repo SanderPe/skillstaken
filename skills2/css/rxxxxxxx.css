@@ -2,8 +2,9 @@
 
 body {
     font-family: tahoma, sans-serif;
-    background-color: lightcyan;
-    color: black;
+    background-color: antiquewhite;
+    color: white;
+    
 }
 
 table,
@@ -16,7 +17,7 @@ th {
 th {
     font-style: italic;
     background-color: #ccc;
-    color: #000;
+    color: white;
 }
 
 col {
@@ -29,12 +30,12 @@ a {
 
 a:link {
     background-color: inherit;
-    color: red;
+    color: blueviolet;
 }
 
 a:visited {
     background-color: inherit;
-    color: green;
+    color: brown;
 }
 
 a:hover {
