@@ -10,8 +10,8 @@
 }
 
 #container {
-    background-color: saddlebrown;
-    color: gold;
+    background-color: moccasin;
+    color: crimson;
 }
 #image {
     background-image: url(../afbeeldingen/luxe.jpg)
@@ -19,4 +19,7 @@
 a {
     color: white;
     background-color: saddlebrown;
+}
+h2 {
+    font-family: 'Lobster', cursive;
 }
