@@ -12,14 +12,46 @@
 #container {
     background-color: moccasin;
     color: crimson;
+    
 }
 #image {
     background-image: url(../afbeeldingen/luxe.jpg)
 }
 a {
-    color: white;
-    background-color: saddlebrown;
+    color: black;
+    
 }
 h2 {
     font-family: 'Lobster', cursive;
+}
+li:hover {
+    background-color: white;
+    border-radius: 10px;
+    
+    
+}
+li a:hover {
+    color: black;
+    background-color: white;
+}
+.geheel p {
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border:  3px solid grey;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: 240px
+}
+#container {
+    width: 900px;
+    align-content: center;
+    margin: 0px auto;
+    
+}
+.geheel {
+    flex-wrap: wrap;
+    display: flex
 }

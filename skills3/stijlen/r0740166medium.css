@@ -16,3 +16,11 @@
 #image {
     background-image: url(../afbeeldingen/gaming.jpg)
 }
+li:hover {
+    background-color: aqua;
+    border-radius: 10px;
+    
+}
+li a:hover {
+    color: black;
+}

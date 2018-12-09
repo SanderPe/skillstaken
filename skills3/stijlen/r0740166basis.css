@@ -43,3 +43,26 @@ body {
 #image {
     background-image: url(../afbeeldingen/goedkoop.jpg)
 }
+
+nav ul {
+    
+    display: flex;
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px auto;
+    
+    
+}
+nav ul li {
+    padding: 10px;
+    
+        
+}
+li:hover {
+    background-color: darkgray;
+    border-radius: 10px;
+    
+}
+li a:hover {
+    color: black;
+}
