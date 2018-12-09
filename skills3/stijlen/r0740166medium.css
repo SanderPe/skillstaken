@@ -1,0 +1,18 @@
+#gaming {
+    display: contents;
+    
+}
+#primair {
+    display: none;
+}
+#luxe {
+    display: none;
+}
+
+#container {
+    background-color: black;
+    color: aqua;
+}
+#image {
+    background-image: url(../afbeeldingen/gaming.jpg)
+}

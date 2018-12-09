@@ -1,0 +1,22 @@
+#luxe {
+    display: contents;
+}
+#gaming {
+    display: none;
+}
+
+#primair {
+    display: none;
+}
+
+#container {
+    background-color: saddlebrown;
+    color: gold;
+}
+#image {
+    background-image: url(../afbeeldingen/luxe.jpg)
+}
+a {
+    color: white;
+    background-color: saddlebrown;
+}
